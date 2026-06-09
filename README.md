@@ -18,6 +18,7 @@ Monitorar níveis de luminosidade.
 Classificar o risco de queimadas em três níveis.
 Emitir alertas automáticos ao detectar situações críticas.
 Demonstrar a aplicação prática de sensores e sistemas embarcados na área ambiental.
+
 🔧 Componentes Utilizados
 Componente	Quantidade
 Arduino Uno	1
@@ -125,23 +126,6 @@ D4	D5
 D5	D4
 D6	D3
 D7	D12
-
-▶️ Instruções de Execução
-Executando no Wokwi
-Acesse o site do Wokwi.
-Crie um novo projeto Arduino Uno.
-Adicione os componentes:
-DHT22
-LDR
-LCD 16x2
-Potenciômetro
-LEDs
-Buzzer
-
-Configure as conexões conforme a tabela apresentada.
-Copie o código-fonte para o arquivo sketch.ino.
-Inicie a simulação clicando em Start Simulation.
-Altere os valores dos sensores para testar os diferentes níveis de risco.
 
 🌱 Impacto Ambiental
 
