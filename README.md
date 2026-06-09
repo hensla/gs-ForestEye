@@ -143,7 +143,11 @@ Copie o código-fonte para o arquivo sketch.ino.
 Inicie a simulação clicando em Start Simulation.
 Altere os valores dos sensores para testar os diferentes níveis de risco.
 
-Henry Ferreira
+🌱 Impacto Ambiental
+
+O projeto contribui para a conscientização sobre monitoramento ambiental e prevenção de queimadas, demonstrando como sensores e sistemas embarcados podem auxiliar na identificação precoce de situações de risco.
+
+Henry Ferreira 
 Renan Lopes
 Lucas Mazzeo
 Eduardo Arruda 
